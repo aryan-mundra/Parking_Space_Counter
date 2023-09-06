@@ -14,5 +14,8 @@ Steps to run this project
 5) Now right click on the image to create boxes for each parking. You can left click to erase the box
    ![Capture](https://github.com/aryan-mundra/Parking_Space_Counter/assets/144268029/bbafeddc-c3b5-458d-b2cc-8f9cf7278c98)
 
+6) Now go to main.py and run the code
+7) You will see how the counter of number of parking increases/decreases ad the vehicles enter or leave the parking lot.
+
 
 
