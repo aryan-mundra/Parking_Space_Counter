@@ -9,5 +9,8 @@ Steps to run this project
 2) pip install cvzone
 3) Go to ParkingSpacePicker.py and run the code
 4) You will see a image of vehicles
+   ![Capture](https://github.com/aryan-mundra/Parking_Space_Counter/assets/144268029/3c47f8b7-d0c5-4317-b9f8-2ba2e1bee426)
+
+5) Now right click on the image to create boxes for each parking. You can left click to erase the box
 
 
